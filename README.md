@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with anything
 - 📫 How to reach me: sarafnavneet2@gmail.com
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: 
+
 
