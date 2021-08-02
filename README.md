@@ -1,4 +1,4 @@
-### Hey!! Gities Navneet here 👋
+### Hey Gities!! Navneet here 👋
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently tasting differet Android frameworks and Cryptography
