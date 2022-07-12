@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently tasting differet Android frameworks and Cryptography
-- 👯 I’m looking to collaborate on Cryptography Projects
-- 🤔 I’m looking for help with anything
+- 👯 I’m a Competitive programmer.
 - 📫 How to reach me: sarafnavneet2@gmail.com
 - 😄 Pronouns: He/his
 
